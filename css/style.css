@@ -5,7 +5,7 @@
 .row-content{
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
+/*    border-bottom: 1px ridge;*/
     min-height: 200px;
 }
 .row-footer{
@@ -46,4 +46,11 @@ body{
 .loginform{
     padding: 70px 30px 70px 30px;
     background-color: #7C4DFF;
+}
+#profile{
+    border-radius: 50%;
+}
+.details{
+    margin: 20px;
+    padding: 30px;
 }
